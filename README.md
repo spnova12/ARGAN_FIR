@@ -29,5 +29,5 @@ This is More results and supplementary materials for our paper.
 
 - - -
 
-![Alt text](/results/0000393035_jpg.png "Optional title")
+![Alt text](/results/test.png "Optional title")
 
