@@ -2,8 +2,10 @@ Argan-for-faithful-image-restoration
 =============
 
 ### This is More results for our paper's Figure 3.
+The images below are all images of BSDS 500 dataset.  
+   
 
-
+   
 ![Alt text](/results/result1.png "Optional title")  
 (a) JPEG   
 (b) ARGAN_mse(λ=0.00001)  
