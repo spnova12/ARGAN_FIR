@@ -23,7 +23,7 @@ On the other hand, (b) has a more unnatural noise in back of the grass and bird 
 (d) ARGAN_base   
    
   
-As in the above example, (c) is 10 times larger than (b), but the psnr in (b) and (c) are almost the same and the details are expressed in (c).
+As in the above example, the λ in (c) is 10 times larger than in (b), but the psnr in (b) and (c) are almost the same and the details are expressed in (c).
 - - -  
 ### The above examples use fidelity loss as mse, while the following two examples use fidelity loss as vgg.   
    
@@ -35,7 +35,7 @@ As in the above example, (c) is 10 times larger than (b), but the psnr in (b) an
 (d) ARGAN_base  
    
 
-When using fidelity loss as vgg, the results have similar psnr even though the λ of ARGAN_vgg and ARGAN_t2 is equal to 0.00001. But ARGAN_t2 has a more natural detail. 
+When using fidelity loss as vgg, the results have similar psnr even though the λ of ARGAN_vgg and ARGAN_t2 is equal to 0.00001. But ARGAN_t2(c) has a more natural detail. 
 The texture of the bark of tree (c) is more natural than (b).
   
 - - -
