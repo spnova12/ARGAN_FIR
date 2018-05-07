@@ -11,7 +11,7 @@ Argan-for-faithful-image-restoration
 (d) ARGAN_base  
    
 
-The lambda in (b) is 10 times greater than that in (c). 
+The λ in (b) is 10 times smaller than that in (c). Therefore, the effect of gan on (b) is much smaller then (c) and produces a result close to baseline.
 But the PSNR of (b) and (c) are similar, and there are more natural details in (c). 
 Looking at the enlarged image, (c) gives noise to the back of the grass and bird, but there is no unnecessary noise in the background. 
 On the other hand, (b) has a more unnatural noise in back of the grass and bird and the background has unnecessary noise.
@@ -22,9 +22,7 @@ On the other hand, (b) has a more unnatural noise in back of the grass and bird 
 (c) ARGAN_t2(fidelity loss=mse, λ=0.0001)     
 (d) ARGAN_base   
    
-
-The lambda in (b) is 10 times greater than that in (c). 
-But the PSNR of (b) and (c) are similar, and there are more natural details in (c). 
+  
 Clearly (c) has more details.
 - - -  
 ### The above examples use fidelity loss as mse, while the following two examples use fidelity loss as vgg.   
@@ -47,7 +45,7 @@ The texture of the bark of tree (c) is more natural than (b).
 (c) ARGAN_t2(fidelity loss=vgg, λ=0.00001)   
 (d) ARGAN_base  
    
-   
+
 Looking at the legs and snout of the turtle of (c), texture is created more finely than (b). 
 - - -
 
