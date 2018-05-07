@@ -4,7 +4,10 @@ Argan-for-faithful-image-restoration
 This is More results and supplementary materials for our paper's Figure 3.
 
 - - -
-JPEG, ARGAN_mse(λ=0.00001), ARGAN_t2(fidelity loss=mse, λ=0.0001), ARGAN_base from left
+(a) JPEG   
+(b) ARGAN_mse(λ=0.00001)  
+(c) ARGAN_t2(fidelity loss=mse, λ=0.0001)  
+(d) ARGAN_base from left
 ![Alt text](/results/result1.png "Optional title")
 - - -
 JPEG, ARGAN_mse(λ=0.00001), ARGAN_t2(fidelity loss=mse, λ=0.0001), ARGAN_base from left
