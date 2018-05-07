@@ -1,6 +1,5 @@
 Argan-for-faithful-image-restoration
 =============
-#### This is More results and supplementary materials for our paper.
 
 This is More results and supplementary materials for our paper's Figure 3.
 
