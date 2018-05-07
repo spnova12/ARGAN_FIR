@@ -23,7 +23,7 @@ On the other hand, (b) has a more unnatural noise in back of the grass and bird 
 (d) ARGAN_base   
    
   
-Clearly (c) has more details.
+As in the above example, (c) is 10 times larger than (b), but the psnr in (b) and (c) are almost the same and the details are expressed in (c).
 - - -  
 ### The above examples use fidelity loss as mse, while the following two examples use fidelity loss as vgg.   
    
